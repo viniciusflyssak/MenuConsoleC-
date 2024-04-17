@@ -1,0 +1,21 @@
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.exe.config
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.exe
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.pdb
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\obj\Debug\MenuConsole.csproj.CoreCompileInputs.cache
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\obj\Debug\SistemaConsole.exe
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\obj\Debug\SistemaConsole.pdb
+D:\Users\Luis\Documents\Visual Studio 2015\Projects\MenuConsoleApp\SistemaConsole\obj\Debug\MenuConsole.csprojResolveAssemblyReference.cache
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.exe.config
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.exe
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.pdb
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\obj\Debug\MenuConsole.csproj.AssemblyReference.cache
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\obj\Debug\MenuConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\obj\Debug\SistemaConsole.exe
+C:\Users\vinic\Downloads\MenuConsoleApp\SistemaConsole\obj\Debug\SistemaConsole.pdb
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.exe.config
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.exe
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\bin\Debug\SistemaConsole.pdb
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\obj\Debug\MenuConsole.csproj.AssemblyReference.cache
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\obj\Debug\MenuConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\obj\Debug\SistemaConsole.exe
+C:\Users\vinic\Downloads\Atividade 1\MenuConsoleApp\SistemaConsole\obj\Debug\SistemaConsole.pdb

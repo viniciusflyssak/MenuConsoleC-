@@ -1,0 +1,7 @@
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\bin\Debug\SistemaConsole.exe.config
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\bin\Debug\SistemaConsole.exe
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\bin\Debug\SistemaConsole.pdb
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\obj\Debug\SistemaConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\obj\Debug\SistemaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\obj\Debug\SistemaConsole.exe
+C:\Users\Administrador.DESKTOP-18UQKEL\source\repos\SistemaConsole\SistemaConsole\obj\Debug\SistemaConsole.pdb
